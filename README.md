@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmithGowda04
-- 👀 I’m interested in python and flutter development
+- 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning the same above
 - 📫 How to reach me (https://www.linkedin.com/in/amith-gowda)
 
