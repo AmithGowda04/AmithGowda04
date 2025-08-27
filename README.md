@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmithGowda
 - 👀 I’m interested in Data analytics
-- 🌱 I’m currently data analytics and data science
+- 🌱 I’m currently working on data analytics and data science
 - 📫 How to reach me
 (https://www.linkedin.com/in/amith-gowda/)
 (https://amithgowda.netlify.app/)
